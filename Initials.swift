@@ -1,0 +1,11 @@
+// I graduated from law school, but was furloughed from my job because all of the courts are closed due to COVID-19. I am attempting to make use of my quarantine time to learn how to create iOS apps using Swift and develop websites using Ruby on Rails.
+print("EEEEEEE")
+print("E")
+print("EEEE")
+print("E")
+print("EEEEEEE")
+print("N      N")
+print("N N    N")
+print("N  N   N")
+print("N    N N")
+print("N      N")
